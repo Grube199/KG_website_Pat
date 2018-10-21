@@ -7,4 +7,4 @@
 <!ELEMENT content (#PCDATA)>
 <!ELEMENT scripture (#PCDATA)>
 <!ELEMENT prayer (#PCDATA)>
-]
+]>
