@@ -1,5 +1,6 @@
 
 <!DOCTYPE BlogPosts [
+<!ELEMENT BlogPosts (BlogPost)+>
 <!ELEMENT BlogPost (date, topic, title, author, content, scripture, prayer?)>
 <!ELEMENT date (#PCDATA)>
 <!ELEMENT topic (#PCDATA)>
@@ -25,7 +26,7 @@
       <date>November 24, 2018</date>
       <topic>Generational Curses</topic>
       <title>What's in my Family Line?</title>
-      <author type="Guest Blogger">Katharine Gruber</author>
+      <author>Katharine Gruber</author>
       <content>article body</content>
       <scripture>Bible reference</scripture>
       <prayer>prayer</prayer>
